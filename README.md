@@ -25,6 +25,11 @@ USAGE
 To use this system, run main.py. This will start the user interface where you can log in, manage inventory, and view statistical analyses of your data.
 You will need credentials to log-in. Use the following, Username: "admin" ; Password: "password" .
 
+Link to project video:
+
+Link 1 - https://youtu.be/DWYfE1S9qKI (Unlisted Youtube video)
+Link 2 - https://drive.google.com/drive/folders/1NUIGrrC_cutlSF4KNloto4Mc6Z8XFuE9?usp=sharing (Drive link as backup if Youtube does not work.)
+
 FUNCTION DESCRIPTIONS
 ---------------------
 
